@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', function () {
   
     const lyricsData = [
       { title: "We Are!", artist: "Hiroshi Kitadani", link: "../Pages/lyrics/OnePieceOpening1-WeAre.html" },
-      { title: "Believe", artist: "Folder5" },
+      { title: "Believe", artist: "Folder5", link: "../Pages/lyrics/OnePieceOpening2-Believe.html" },
       { title: "Hikari e", artist: "The Babystars" },
       { title: "BON VOYAGE!", artist: "Bon-Bon Blanco" },
       { title: "Kokoro no Chizu", artist: "BOYSTYLE" },
