@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', function () {
     const lyricsData = [
       { title: "We Are!", artist: "Hiroshi Kitadani", link: "./Pages/lyrics/OnePieceOpening1-WeAre.html" },
       { title: "Believe", artist: "Folder5", link: "./Pages/lyrics/OnePieceOpening2-Believe.html" },
-      { title: "Hikari e", artist: "The Babystars" },
+      { title: "Hikari e", artist: "The Babystars", link: "./Pages/lyrics/OnePieceOpenig3-Hikari-e.html" },
       { title: "BON VOYAGE!", artist: "Bon-Bon Blanco" },
       { title: "Kokoro no Chizu", artist: "BOYSTYLE" },
       { title: "Brand New World", artist: "D-51" },
