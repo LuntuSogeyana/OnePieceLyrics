@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', function () {
       { title: "We Are!", artist: "Hiroshi Kitadani", link: "./Pages/lyrics/OnePieceOpening1-WeAre.html" },
       { title: "Believe", artist: "Folder5", link: "./Pages/lyrics/OnePieceOpening2-Believe.html" },
       { title: "Hikari e", artist: "The Babystars", link: "./Pages/lyrics/OnePieceOpenig3-Hikari-e.html" },
-      { title: "BON VOYAGE!", artist: "Bon-Bon Blanco" },
+      { title: "BON VOYAGE!", artist: "Bon-Bon Blanco", link: "./Pages/One Piece OP 04 - BON VOYAGE!.html"},
       { title: "Kokoro no Chizu", artist: "BOYSTYLE" },
       { title: "Brand New World", artist: "D-51" },
       { title: "We Go!", artist: "Hiroshi Kitadani" },
@@ -62,4 +62,15 @@ document.addEventListener('DOMContentLoaded', function () {
   
     displayLyrics(currentPage);
   });
+
+  //favicon
+//   function addFavicon() {
+//     const link = document.createElement("link");
+//     link.rel = "icon";
+//     link.href = "./images/Temporary__logo-removebg-preview.04d24ef8.png";
+//     link.type = "png";
+//     document.head.appendChild(link);
+// }
+// addFavicon();
+
   
